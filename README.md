@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishneshv](https://github.com/vishneshv)
 
-- 📫 How to reach me **Vojjalavishneshh2002@gmail.com**
+- 📫 How to reach me **Vojjalavishnesh2002@gmail.com**
 <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47p7mj9h7j8gvv6ebjef2ywd7dlyf4nfepr2fczll7&rid=giphy.gif&ct=g">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
