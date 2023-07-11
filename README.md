@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/vishneshv](https://github.com/vishneshv)
 
 - 📫 How to reach me **Vojjalavishnesh2002@gmail.com**
-<img align="right" alt="Coding" width="200" src="https://giphy.com/gifs/dog-shiba-inu-typing-mCRJDo24UvJMA">
+<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYngxcG05ZGZ2OXBiYWV5N3huZmIxMmZrcDlrYjhzaWZhdzN0bWFqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vishnesh_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnesh_28" height="30" width="40" /></a>
